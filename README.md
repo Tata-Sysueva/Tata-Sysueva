@@ -2,7 +2,7 @@
 
 <h5 align="right">* «привет, мир!»</h5>
 
-<h2 align="center"><samp><strong>Я Таня, frontend react разработчик</strong></samp></h2>
+<h2 align="center"><samp><strong>Я Таня, frontend разработчик</strong></samp></h2>
 <br>
 <br>
 <p align="center">
