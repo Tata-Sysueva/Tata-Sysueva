@@ -55,7 +55,11 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
   </a>
 </p>
-
+<br/>
+<a href="https://www.codewars.com/users/Tatiana%20Sysueva/badges/micro" target="_blank">
+  <img src="https://www.codewars.com/users/Tatiana%20Sysueva/badges/micro" alt="codewars" />
+</a>
+<a href="https://wakatime.com/@2fabd5fe-c3ec-4105-ade8-6acb2b3a6dd1"><img src="https://wakatime.com/badge/user/2fabd5fe-c3ec-4105-ade8-6acb2b3a6dd1.svg" alt="Total time coded since Dec 23 2022" /></a>
 
 
 
